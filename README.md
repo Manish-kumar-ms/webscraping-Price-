@@ -69,7 +69,7 @@ setup
 npm install
 ```
 
-### 3️⃣ Setup environment variables  
+### 2 Setup environment variables  
 
 Create a `.env` file in the backend folder:
 
@@ -79,7 +79,7 @@ PORT=8000
 
 ```
 
-### 4️⃣ Run the server  
+### 3 Run the server  
 ```bash
 npm start
 ```
