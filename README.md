@@ -9,7 +9,7 @@ It automatically scrapes product prices (from Amazon and Flipkart), stores them 
 
 ## 🌐 Live Demo
  
-- **Backend**: [https://voting-app-backend-az4s.onrender.com](https://voting-app-backend-az4s.onrender.com)
+- **Backend**: [https://webscraping-price-backend.onrender.com](https://webscraping-price-backend.onrender.com)
 
 ---
 
